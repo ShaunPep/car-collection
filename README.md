@@ -8,7 +8,7 @@ In the project directory, first run the following to install all the dependencie
 
 ### `yarn install`
 
-To run the application run:
+To start the application, run:
 
 ### `yarn start`
 
